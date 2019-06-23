@@ -1,9 +1,8 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
+    "groups": [
+    "test",
+    "test3",
+    "title"
   ],
   "profile": {
     "name": "typicode"
