@@ -1,4 +1,8 @@
-"groups": [
-    "Guests",
-    "B2CTest1"
+{
+  "groups": [
+    {
+      "test",
+      "title"
+    }
   ]
+}
