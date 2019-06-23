@@ -1,0 +1,12 @@
+{
+  "Groups": [
+    {
+      "name": "Test2"
+    },{
+          "name": "Test"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
