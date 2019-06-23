@@ -2,5 +2,8 @@
   "groups": [
       "test",
       "title"
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
